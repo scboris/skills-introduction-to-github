@@ -1,1 +1,1 @@
-printf ("Hello Word in Profile file");
+Welcome to my GitHub profile!
